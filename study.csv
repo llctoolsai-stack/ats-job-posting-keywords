@@ -1,0 +1,289 @@
+role,term,category,share_of_postings_percent,postings_mentioning_term,postings_in_sample,margin_of_error_points,collected
+Software Engineer,scalability,Practice,52.9,719,1360,,2026-08-29
+Software Engineer,mentoring,Practice,47.4,644,1360,,2026-08-29
+Software Engineer,distributed systems,Practice,47,639,1360,,2026-08-29
+Software Engineer,system design / architecture,Practice,46.7,635,1360,,2026-08-29
+Software Engineer,Python,Languages,44.8,609,1360,,2026-08-29
+Software Engineer,AWS,Cloud & infra,41.3,562,1360,,2026-08-29
+Software Engineer,Java,Languages,35.4,482,1360,,2026-08-29
+Software Engineer,Go,Languages,31.1,423,1360,,2026-08-29
+Software Engineer,cross-functional,Practice,31,422,1360,,2026-08-29
+Software Engineer,Kubernetes,Cloud & infra,30.9,420,1360,,2026-08-29
+Software Engineer,code review,Practice,27.2,370,1360,,2026-08-29
+Software Engineer,React,Frontend,21.1,287,1360,,2026-08-29
+Software Engineer,on-call,Practice,20.7,281,1360,,2026-08-29
+Software Engineer,TypeScript,Languages,19.8,269,1360,,2026-08-29
+Software Engineer,CI/CD,Practice,19.5,265,1360,,2026-08-29
+Software Engineer,GCP / Google Cloud,Cloud & infra,19.3,262,1360,,2026-08-29
+Software Engineer,Azure,Cloud & infra,17.6,239,1360,,2026-08-29
+Software Engineer,C++,Languages,17.4,236,1360,,2026-08-29
+Software Engineer,SQL,Languages,17.3,235,1360,,2026-08-29
+Software Engineer,PostgreSQL,Data,14.3,194,1360,,2026-08-29
+Software Engineer,JavaScript,Languages,13.2,179,1360,,2026-08-29
+Software Engineer,Terraform,Cloud & infra,13.2,179,1360,,2026-08-29
+Software Engineer,Kafka,Data,13.1,178,1360,,2026-08-29
+Software Engineer,Docker,Cloud & infra,12.6,171,1360,,2026-08-29
+Software Engineer,Kotlin,Languages,12,163,1360,,2026-08-29
+Software Engineer,MySQL,Data,11.3,153,1360,,2026-08-29
+Software Engineer,Rust,Languages,9.9,135,1360,,2026-08-29
+Software Engineer,Spark,Data,9.8,133,1360,,2026-08-29
+Software Engineer,REST / RESTful,Frontend,9.6,130,1360,,2026-08-29
+Software Engineer,Agile / Scrum,Practice,9.3,127,1360,,2026-08-29
+Software Engineer,Scala,Languages,8.6,117,1360,,2026-08-29
+Software Engineer,Ruby,Languages,8.5,115,1360,,2026-08-29
+Software Engineer,MongoDB,Data,7.4,101,1360,,2026-08-29
+Software Engineer,Redis,Data,7.4,101,1360,,2026-08-29
+Software Engineer,microservices,Cloud & infra,7.1,97,1360,,2026-08-29
+Software Engineer,unit / automated testing,Practice,6.5,89,1360,,2026-08-29
+Software Engineer,Elasticsearch,Data,6.4,87,1360,,2026-08-29
+Software Engineer,GraphQL,Frontend,6,82,1360,,2026-08-29
+Software Engineer,Snowflake,Data,5.6,76,1360,,2026-08-29
+Software Engineer,Node.js,Frontend,5.5,75,1360,,2026-08-29
+Software Engineer,C#,Languages,5.3,72,1360,,2026-08-29
+Software Engineer,Linux,Cloud & infra,4.8,65,1360,,2026-08-29
+Software Engineer,Vue,Frontend,3.2,44,1360,,2026-08-29
+Software Engineer,Angular,Frontend,2.9,40,1360,,2026-08-29
+Software Engineer,Swift,Languages,2.3,31,1360,,2026-08-29
+Sales / Account Executive,enterprise,Segment & context,70.9,653,921,2.9,2026-09-09
+Sales / Account Executive,pipeline,Metrics & targets,65.5,603,921,3.1,2026-09-09
+Sales / Account Executive,prospecting,Sales motion,53.9,496,921,3.2,2026-09-09
+Sales / Account Executive,SaaS,Segment & context,49.6,457,921,3.2,2026-09-09
+Sales / Account Executive,quota,Metrics & targets,47.6,438,921,3.2,2026-09-09
+Sales / Account Executive,forecasting,Metrics & targets,44.2,407,921,3.2,2026-09-09
+Sales / Account Executive,negotiation,Sales motion,44,405,921,3.2,2026-09-09
+Sales / Account Executive,C-level / executive engagement,Sales motion,37,341,921,3.1,2026-09-09
+Sales / Account Executive,MEDDIC / MEDDPICC,Methodology,33.8,311,921,3.1,2026-09-09
+Sales / Account Executive,outbound,Sales motion,29.5,272,921,2.9,2026-09-09
+Sales / Account Executive,Salesforce,Tools & platforms,29.2,269,921,2.9,2026-09-09
+Sales / Account Executive,closing deals,Sales motion,23,212,921,2.7,2026-09-09
+Sales / Account Executive,channel / partner,Sales motion,21.5,198,921,2.7,2026-09-09
+Sales / Account Executive,net new logos,Metrics & targets,17.6,162,921,2.5,2026-09-09
+Sales / Account Executive,CRM (generic),Tools & platforms,15,138,921,2.3,2026-09-09
+Sales / Account Executive,Force Management / Command of the Message,Methodology,14.9,137,921,2.3,2026-09-09
+Sales / Account Executive,territory planning,Sales motion,14.7,135,921,2.3,2026-09-09
+Sales / Account Executive,mid-market,Segment & context,13.5,124,921,2.2,2026-09-09
+Sales / Account Executive,value selling,Methodology,12.9,119,921,2.2,2026-09-09
+Sales / Account Executive,multithreading,Sales motion,11.9,110,921,2.1,2026-09-09
+Sales / Account Executive,upsell / cross-sell,Sales motion,11.8,109,921,2.1,2026-09-09
+Sales / Account Executive,Challenger,Methodology,10,92,921,1.9,2026-09-09
+Sales / Account Executive,quota attainment,Metrics & targets,8.5,78,921,1.8,2026-09-09
+Sales / Account Executive,bookings,Metrics & targets,7.9,73,921,1.7,2026-09-09
+Sales / Account Executive,SPIN,Methodology,5.6,52,921,1.5,2026-09-09
+Sales / Account Executive,cold calling / outbound,Sales motion,5,46,921,1.4,2026-09-09
+Sales / Account Executive,land and expand,Sales motion,5,46,921,1.4,2026-09-09
+Sales / Account Executive,SMB,Segment & context,4.8,44,921,1.4,2026-09-09
+Sales / Account Executive,LinkedIn Sales Navigator,Tools & platforms,4.7,43,921,1.4,2026-09-09
+Sales / Account Executive,ARR,Metrics & targets,4.2,39,921,1.3,2026-09-09
+Sales / Account Executive,Clari,Tools & platforms,3.6,33,921,1.2,2026-09-09
+Sales / Account Executive,ZoomInfo,Tools & platforms,3.5,32,921,1.2,2026-09-09
+Sales / Account Executive,solution selling,Methodology,3.3,30,921,1.2,2026-09-09
+Sales / Account Executive,ACV,Metrics & targets,3.1,29,921,1.1,2026-09-09
+Sales / Account Executive,Sandler,Methodology,2.1,19,921,0.9,2026-09-09
+Sales / Account Executive,discovery calls,Sales motion,2.1,19,921,0.9,2026-09-09
+Sales / Account Executive,President's Club,Metrics & targets,1.6,15,921,0.8,2026-09-09
+Sales / Account Executive,RFP,Sales motion,1.5,14,921,0.8,2026-09-09
+Sales / Account Executive,Gong,Tools & platforms,1.4,13,921,0.8,2026-09-09
+Sales / Account Executive,Salesloft,Tools & platforms,0.9,8,921,0.6,2026-09-09
+Sales / Account Executive,HubSpot,Tools & platforms,0.8,7,921,0.6,2026-09-09
+Sales / Account Executive,win rate,Metrics & targets,0.1,1,921,0.2,2026-09-09
+Sales / Account Executive,BANT,Methodology,0,0,921,0,2026-09-09
+Product Manager,roadmap,Craft & practice,85.5,360,421,3.4,2026-09-09
+Product Manager,cross-functional,Craft & practice,68.4,288,421,4.4,2026-09-09
+Product Manager,prioritization,Craft & practice,59.6,251,421,4.7,2026-09-09
+Product Manager,stakeholder management,Craft & practice,57,240,421,4.7,2026-09-09
+Product Manager,enterprise,Domain & context,40.1,169,421,4.7,2026-09-09
+Product Manager,product strategy,Craft & practice,38.2,161,421,4.6,2026-09-09
+Product Manager,go-to-market,Craft & practice,33.7,142,421,4.5,2026-09-09
+Product Manager,AI / machine learning,Domain & context,28.3,119,421,4.3,2026-09-09
+Product Manager,experimentation,Metrics & analysis,24.2,102,421,4.1,2026-09-09
+Product Manager,API,Domain & context,23.5,99,421,4.1,2026-09-09
+Product Manager,SaaS,Domain & context,21.6,91,421,3.9,2026-09-09
+Product Manager,B2B,Domain & context,19.7,83,421,3.8,2026-09-09
+Product Manager,engagement,Metrics & analysis,19,80,421,3.7,2026-09-09
+Product Manager,SQL,Tools,16.4,69,421,3.5,2026-09-09
+Product Manager,retention,Metrics & analysis,15,63,421,3.4,2026-09-09
+Product Manager,requirements / PRD,Craft & practice,13.1,55,421,3.2,2026-09-09
+Product Manager,conversion,Metrics & analysis,9.5,40,421,2.8,2026-09-09
+Product Manager,user research,Craft & practice,9.3,39,421,2.8,2026-09-09
+Product Manager,KPIs,Metrics & analysis,9.3,39,421,2.8,2026-09-09
+Product Manager,Agile,Method,8.6,36,421,2.7,2026-09-09
+Product Manager,funnel,Metrics & analysis,5.7,24,421,2.2,2026-09-09
+Product Manager,MBA,Domain & context,5.5,23,421,2.2,2026-09-09
+Product Manager,north star metric,Metrics & analysis,4.5,19,421,2,2026-09-09
+Product Manager,product discovery,Craft & practice,4,17,421,1.9,2026-09-09
+Product Manager,user stories,Craft & practice,3.3,14,421,1.7,2026-09-09
+Product Manager,OKRs,Metrics & analysis,3.3,14,421,1.7,2026-09-09
+Product Manager,sprint,Method,3.1,13,421,1.7,2026-09-09
+Product Manager,churn,Metrics & analysis,2.4,10,421,1.5,2026-09-09
+Product Manager,Figma,Tools,2.4,10,421,1.5,2026-09-09
+Product Manager,A/B testing,Metrics & analysis,2.1,9,421,1.4,2026-09-09
+Product Manager,Scrum,Method,2.1,9,421,1.4,2026-09-09
+Product Manager,customer interviews,Craft & practice,1.7,7,421,1.2,2026-09-09
+Product Manager,Jira,Tools,1.7,7,421,1.2,2026-09-09
+Product Manager,Amplitude,Tools,1.7,7,421,1.2,2026-09-09
+Product Manager,NPS,Metrics & analysis,1.4,6,421,1.1,2026-09-09
+Product Manager,cohort analysis,Metrics & analysis,1.2,5,421,1,2026-09-09
+Product Manager,B2C,Domain & context,1.2,5,421,1,2026-09-09
+Product Manager,Looker,Tools,0.7,3,421,0.8,2026-09-09
+Product Manager,Confluence,Tools,0.7,3,421,0.8,2026-09-09
+Product Manager,Kanban,Method,0.5,2,421,0.7,2026-09-09
+Product Manager,Mixpanel,Tools,0.2,1,421,0.4,2026-09-09
+Product Manager,Tableau,Tools,0.2,1,421,0.4,2026-09-09
+Product Manager,lean,Method,0,0,421,0,2026-09-09
+Product Manager,Productboard,Tools,0,0,421,0,2026-09-09
+Marketing,cross-functional,Craft & practice,59.9,208,347,5.2,2026-08-30
+Marketing,go-to-market,Craft & practice,53,184,347,5.3,2026-08-30
+Marketing,messaging,Craft & practice,53,184,347,5.3,2026-08-30
+Marketing,pipeline,Metrics & analysis,52.2,181,347,5.3,2026-08-30
+Marketing,positioning,Craft & practice,40.1,139,347,5.2,2026-08-30
+Marketing,brand,Craft & practice,35.7,124,347,5,2026-08-30
+Marketing,demand generation,Channels & tactics,35.4,123,347,5,2026-08-30
+Marketing,storytelling,Craft & practice,27.1,94,347,4.7,2026-08-30
+Marketing,budget management,Metrics & analysis,24.2,84,347,4.5,2026-08-30
+Marketing,events / field marketing,Channels & tactics,23.3,81,347,4.4,2026-08-30
+Marketing,Salesforce,Platforms & tools,23.1,80,347,4.4,2026-08-30
+Marketing,funnel,Metrics & analysis,22.8,79,347,4.4,2026-08-30
+Marketing,ROI,Metrics & analysis,21.9,76,347,4.4,2026-08-30
+Marketing,partner / channel marketing,Channels & tactics,18.7,65,347,4.1,2026-08-30
+Marketing,CRM (generic),Platforms & tools,18.2,63,347,4.1,2026-08-30
+Marketing,ABM,Channels & tactics,16.7,58,347,3.9,2026-08-30
+Marketing,Marketo,Platforms & tools,14.7,51,347,3.7,2026-08-30
+Marketing,Looker / Tableau,Platforms & tools,14.7,51,347,3.7,2026-08-30
+Marketing,customer research,Craft & practice,11.2,39,347,3.3,2026-08-30
+Marketing,attribution,Metrics & analysis,10.7,37,347,3.3,2026-08-30
+Marketing,competitive analysis,Craft & practice,10.4,36,347,3.2,2026-08-30
+Marketing,SQL (querying),Metrics & analysis,10.1,35,347,3.2,2026-08-30
+Marketing,lifecycle marketing,Channels & tactics,9.5,33,347,3.1,2026-08-30
+Marketing,SEO,Channels & tactics,6.9,24,347,2.7,2026-08-30
+Marketing,content marketing,Channels & tactics,6.6,23,347,2.6,2026-08-30
+Marketing,HubSpot,Platforms & tools,6.6,23,347,2.6,2026-08-30
+Marketing,A/B testing,Metrics & analysis,6.3,22,347,2.6,2026-08-30
+Marketing,email marketing,Channels & tactics,5.8,20,347,2.5,2026-08-30
+Marketing,Braze / Iterable,Platforms & tools,4.3,15,347,2.1,2026-08-30
+Marketing,campaign management,Craft & practice,4.3,15,347,2.1,2026-08-30
+Marketing,Google Analytics / GA4,Platforms & tools,4,14,347,2.1,2026-08-30
+Marketing,paid social,Channels & tactics,3.7,13,347,2,2026-08-30
+Marketing,public relations / comms,Channels & tactics,3.5,12,347,1.9,2026-08-30
+Marketing,LTV,Metrics & analysis,3.5,12,347,1.9,2026-08-30
+Marketing,Amplitude / Mixpanel,Platforms & tools,3.2,11,347,1.9,2026-08-30
+Marketing,CAC,Metrics & analysis,2.6,9,347,1.7,2026-08-30
+Marketing,copywriting,Craft & practice,2.6,9,347,1.7,2026-08-30
+Marketing,Figma,Platforms & tools,2.3,8,347,1.6,2026-08-30
+Marketing,MQL / SQL (leads),Metrics & analysis,2.3,8,347,1.6,2026-08-30
+Marketing,SEM / paid search,Channels & tactics,2,7,347,1.5,2026-08-30
+Marketing,Google Ads,Platforms & tools,1.7,6,347,1.4,2026-08-30
+Marketing,conversion rate,Metrics & analysis,1.7,6,347,1.4,2026-08-30
+Marketing,Meta / Facebook Ads,Platforms & tools,0.6,2,347,0.8,2026-08-30
+Marketing,LinkedIn Ads,Platforms & tools,0.3,1,347,0.6,2026-08-30
+Cybersecurity,Python,Languages,53.3,113,212,6.7,2026-08-29
+Cybersecurity,AWS,Cloud & infra,46.7,99,212,6.7,2026-08-29
+Cybersecurity,incident response,Practice,37.7,80,212,6.5,2026-08-29
+Cybersecurity,threat modeling,Practice,34.9,74,212,6.4,2026-08-29
+Cybersecurity,GCP / Google Cloud,Cloud & infra,34,72,212,6.4,2026-08-29
+Cybersecurity,Go,Languages,30.7,65,212,6.2,2026-08-29
+Cybersecurity,SIEM,Tools,26.9,57,212,6,2026-08-29
+Cybersecurity,IAM / identity,Practice,24.1,51,212,5.8,2026-08-29
+Cybersecurity,Kubernetes,Cloud & infra,23.1,49,212,5.7,2026-08-29
+Cybersecurity,Azure,Cloud & infra,21.7,46,212,5.5,2026-08-29
+Cybersecurity,vulnerability management,Practice,19.8,42,212,5.4,2026-08-29
+Cybersecurity,EDR / XDR,Tools,19.3,41,212,5.3,2026-08-29
+Cybersecurity,penetration testing,Practice,19.3,41,212,5.3,2026-08-29
+Cybersecurity,detection engineering,Practice,19.3,41,212,5.3,2026-08-29
+Cybersecurity,on-call,Practice,18.9,40,212,5.3,2026-08-29
+Cybersecurity,Terraform,Cloud & infra,17,36,212,5.1,2026-08-29
+Cybersecurity,cryptography,Practice,13.7,29,212,4.6,2026-08-29
+Cybersecurity,secure code review,Practice,12.3,26,212,4.4,2026-08-29
+Cybersecurity,Linux,Cloud & infra,11.8,25,212,4.3,2026-08-29
+Cybersecurity,SAST / DAST,Tools,11.3,24,212,4.3,2026-08-29
+Cybersecurity,red team,Practice,11.3,24,212,4.3,2026-08-29
+Cybersecurity,SOC 2,Frameworks & compliance,10.8,23,212,4.2,2026-08-29
+Cybersecurity,MITRE ATT&CK,Frameworks & compliance,10.8,23,212,4.2,2026-08-29
+Cybersecurity,zero trust,Practice,10.4,22,212,4.1,2026-08-29
+Cybersecurity,ISO 27001,Frameworks & compliance,9.4,20,212,3.9,2026-08-29
+Cybersecurity,NIST,Frameworks & compliance,8.5,18,212,3.8,2026-08-29
+Cybersecurity,Splunk,Tools,6.6,14,212,3.3,2026-08-29
+Cybersecurity,FedRAMP,Frameworks & compliance,6.1,13,212,3.2,2026-08-29
+Cybersecurity,CISSP,Certifications,5.7,12,212,3.1,2026-08-29
+Cybersecurity,OSCP,Certifications,5.7,12,212,3.1,2026-08-29
+Cybersecurity,Bash / shell,Languages,5.7,12,212,3.1,2026-08-29
+Cybersecurity,GDPR,Frameworks & compliance,4.7,10,212,2.8,2026-08-29
+Cybersecurity,vulnerability scanning,Tools,4.2,9,212,2.7,2026-08-29
+Cybersecurity,PCI DSS,Frameworks & compliance,3.3,7,212,2.4,2026-08-29
+Cybersecurity,CISM,Certifications,2.8,6,212,2.2,2026-08-29
+Cybersecurity,Security+,Certifications,2.4,5,212,2.1,2026-08-29
+Cybersecurity,GIAC / SANS,Certifications,2.4,5,212,2.1,2026-08-29
+Cybersecurity,Burp Suite,Tools,2.4,5,212,2.1,2026-08-29
+Cybersecurity,CEH,Certifications,0.9,2,212,1.3,2026-08-29
+Cybersecurity,HIPAA,Frameworks & compliance,0.9,2,212,1.3,2026-08-29
+DevOps / SRE / Platform Engineer,automation,Reliability practice,81.3,109,134,6.6,2026-09-09
+DevOps / SRE / Platform Engineer,AWS,Cloud & infrastructure,75.4,101,134,7.3,2026-09-09
+DevOps / SRE / Platform Engineer,scalability,Reliability practice,72.4,97,134,7.6,2026-09-09
+DevOps / SRE / Platform Engineer,Python,Languages,70.9,95,134,7.7,2026-09-09
+DevOps / SRE / Platform Engineer,Kubernetes,Cloud & infrastructure,70.1,94,134,7.8,2026-09-09
+DevOps / SRE / Platform Engineer,observability,Observability,63.4,85,134,8.2,2026-09-09
+DevOps / SRE / Platform Engineer,Terraform,Provisioning & delivery,62.7,84,134,8.2,2026-09-09
+DevOps / SRE / Platform Engineer,networking,Cloud & infrastructure,57.5,77,134,8.4,2026-09-09
+DevOps / SRE / Platform Engineer,monitoring,Observability,55.2,74,134,8.4,2026-09-09
+DevOps / SRE / Platform Engineer,infrastructure as code,Provisioning & delivery,52.2,70,134,8.5,2026-09-09
+DevOps / SRE / Platform Engineer,incident response,Reliability practice,50.7,68,134,8.5,2026-09-09
+DevOps / SRE / Platform Engineer,CI/CD,Provisioning & delivery,50,67,134,8.5,2026-09-09
+DevOps / SRE / Platform Engineer,Go,Languages,47,63,134,8.5,2026-09-09
+DevOps / SRE / Platform Engineer,GCP / Google Cloud,Cloud & infrastructure,43.3,58,134,8.4,2026-09-09
+DevOps / SRE / Platform Engineer,on-call,Reliability practice,42.5,57,134,8.4,2026-09-09
+DevOps / SRE / Platform Engineer,Linux,Cloud & infrastructure,38.8,52,134,8.3,2026-09-09
+DevOps / SRE / Platform Engineer,SLO / SLA,Reliability practice,35.1,47,134,8.1,2026-09-09
+DevOps / SRE / Platform Engineer,Azure,Cloud & infrastructure,30.6,41,134,7.8,2026-09-09
+DevOps / SRE / Platform Engineer,Docker / containers,Cloud & infrastructure,28.4,38,134,7.6,2026-09-09
+DevOps / SRE / Platform Engineer,Grafana,Observability,27.6,37,134,7.6,2026-09-09
+DevOps / SRE / Platform Engineer,toil reduction,Reliability practice,26.9,36,134,7.5,2026-09-09
+DevOps / SRE / Platform Engineer,ArgoCD,Provisioning & delivery,24.6,33,134,7.3,2026-09-09
+DevOps / SRE / Platform Engineer,logging,Observability,24.6,33,134,7.3,2026-09-09
+DevOps / SRE / Platform Engineer,Prometheus,Observability,22.4,30,134,7.1,2026-09-09
+DevOps / SRE / Platform Engineer,Bash / shell,Languages,20.9,28,134,6.9,2026-09-09
+DevOps / SRE / Platform Engineer,distributed tracing,Observability,20.1,27,134,6.8,2026-09-09
+DevOps / SRE / Platform Engineer,GitHub Actions,Provisioning & delivery,19.4,26,134,6.7,2026-09-09
+DevOps / SRE / Platform Engineer,Ansible,Provisioning & delivery,17.9,24,134,6.5,2026-09-09
+DevOps / SRE / Platform Engineer,Datadog,Observability,17.9,24,134,6.5,2026-09-09
+DevOps / SRE / Platform Engineer,Helm,Provisioning & delivery,14.2,19,134,5.9,2026-09-09
+DevOps / SRE / Platform Engineer,postmortems,Reliability practice,12.7,17,134,5.6,2026-09-09
+DevOps / SRE / Platform Engineer,cost optimization,Reliability practice,11.2,15,134,5.3,2026-09-09
+DevOps / SRE / Platform Engineer,GitLab,Provisioning & delivery,10.4,14,134,5.2,2026-09-09
+DevOps / SRE / Platform Engineer,capacity planning,Reliability practice,9.7,13,134,5,2026-09-09
+DevOps / SRE / Platform Engineer,PagerDuty,Observability,7.5,10,134,4.5,2026-09-09
+DevOps / SRE / Platform Engineer,chaos engineering,Reliability practice,6.7,9,134,4.2,2026-09-09
+DevOps / SRE / Platform Engineer,serverless,Cloud & infrastructure,6,8,134,4,2026-09-09
+DevOps / SRE / Platform Engineer,Rust,Languages,5.2,7,134,3.8,2026-09-09
+DevOps / SRE / Platform Engineer,Chef,Provisioning & delivery,3.7,5,134,3.2,2026-09-09
+DevOps / SRE / Platform Engineer,Jenkins,Provisioning & delivery,3,4,134,2.9,2026-09-09
+DevOps / SRE / Platform Engineer,disaster recovery,Reliability practice,3,4,134,2.9,2026-09-09
+DevOps / SRE / Platform Engineer,Puppet,Provisioning & delivery,0.7,1,134,1.4,2026-09-09
+Accountant,audit,Process,85.4,105,123,6.2,2026-08-29
+Accountant,reconciliation,Process,74,91,123,7.8,2026-08-29
+Accountant,CPA,Credentials,67.5,83,123,8.3,2026-08-29
+Accountant,GAAP,Standards & rules,64.2,79,123,8.5,2026-08-29
+Accountant,process improvement / automation,Process,59.3,73,123,8.7,2026-08-29
+Accountant,Big 4 experience,Credentials,46.3,57,123,8.8,2026-08-29
+Accountant,journal entries,Process,46.3,57,123,8.8,2026-08-29
+Accountant,cross-functional,Process,43.9,54,123,8.8,2026-08-29
+Accountant,internal controls,Standards & rules,41.5,51,123,8.7,2026-08-29
+Accountant,SOX / Sarbanes-Oxley,Standards & rules,39,48,123,8.6,2026-08-29
+Accountant,public accounting,Credentials,39,48,123,8.6,2026-08-29
+Accountant,NetSuite,Systems,36.6,45,123,8.5,2026-08-29
+Accountant,month-end close,Process,36.6,45,123,8.5,2026-08-29
+Accountant,Excel,Systems,33.3,41,123,8.3,2026-08-29
+Accountant,financial statements,Process,32.5,40,123,8.3,2026-08-29
+Accountant,revenue recognition,Standards & rules,21.1,26,123,7.2,2026-08-29
+Accountant,ASC 606,Standards & rules,19.5,24,123,7,2026-08-29
+Accountant,SQL,Systems,19.5,24,123,7,2026-08-29
+Accountant,accruals,Process,18.7,23,123,6.9,2026-08-29
+Accountant,IFRS,Standards & rules,14.6,18,123,6.2,2026-08-29
+Accountant,Oracle,Systems,13.8,17,123,6.1,2026-08-29
+Accountant,variance analysis,Process,11.4,14,123,5.6,2026-08-29
+Accountant,forecasting,Process,9.8,12,123,5.3,2026-08-29
+Accountant,SAP,Systems,8.9,11,123,5,2026-08-29
+Accountant,Workday,Systems,8.9,11,123,5,2026-08-29
+Accountant,Looker / Tableau,Systems,3.3,4,123,3.2,2026-08-29
+Accountant,Blackline,Systems,1.6,2,123,2.2,2026-08-29
+Accountant,Coupa,Systems,1.6,2,123,2.2,2026-08-29
+Accountant,QuickBooks,Systems,0.8,1,123,1.6,2026-08-29
+Accountant,CMA,Credentials,0,0,123,0,2026-08-29
